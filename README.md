@@ -1,4 +1,4 @@
-# IntervueX 🚀
+# InterviewX 🚀
 
 ## An AI-Powered Interview Platform
 
@@ -117,7 +117,7 @@ flowchart TD
 ## 📂 Project Structure
 
 ```bash
-IntervueX/
+InterviewX/
 │
 ├── frontend/
 │   ├── public/
@@ -187,7 +187,7 @@ VITE_API_URL=http://localhost:8000
 
 ```bash
 git clone https://github.com/YourUsername/IntervueX.git
-cd IntervueX
+cd InterviewX
 ```
 
 ### Backend Setup
@@ -224,7 +224,7 @@ Feel free to fork this repository and submit a pull request.
 
 ## 👨‍💻 Author
 
-**Ayush Pratap Singh**
+**Shalu Singh**
 
 Built with React, Node.js, MongoDB, Gemini AI, JDoodle, and modern web technologies.
 
